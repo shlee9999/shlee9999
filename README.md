@@ -1,7 +1,7 @@
 ### 안녕하세요, 프론트엔드 개발자를 준비 중인 이성훈입니다! 👋
 
 - 🔭 현재 프로그래머스 데브코스 수료 후 최종 프로젝트를 React Native로 마이그레이션 중이에요!
-- 🌱 개발자로서 중요한 것은 지식 공유와 성장이라고 생각합니다.
+- 🌱 개발자로서 지식 공유와 성장을 중시합니다.
 - 👯 프론트엔드 개발자로서 가장 중요한 것은 타 직군과의 소통이라고 생각합니다.
 - 📫 이메일: oklshop555@naver.com
 
@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shlee9999&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-여기에 React Native를 추가한 기술 스택입니다:
 
 ## 🔨 기술 스택
 Front-End
